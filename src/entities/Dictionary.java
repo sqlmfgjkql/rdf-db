@@ -8,6 +8,7 @@ public abstract class Dictionary  {
 	
 	public static void addResource(String key, int value)
 	{
+		// mon test		
 		dictionary.put(key, value);
 	}
 	
