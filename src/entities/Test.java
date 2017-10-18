@@ -6,7 +6,6 @@ public class Test {
 		
 		Dictionary.addResource("Test", 1);
 		System.out.println(Dictionary.getValue("Test"));
-		wr
 	}
 
 }
